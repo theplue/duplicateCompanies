@@ -1,0 +1,15 @@
+/Users/rslavi686@cable.comcast.com/RiderProjects/duplicateCompanies/duplicateCompanies/bin/Debug/net8.0/duplicateCompanies
+/Users/rslavi686@cable.comcast.com/RiderProjects/duplicateCompanies/duplicateCompanies/bin/Debug/net8.0/duplicateCompanies.deps.json
+/Users/rslavi686@cable.comcast.com/RiderProjects/duplicateCompanies/duplicateCompanies/bin/Debug/net8.0/duplicateCompanies.runtimeconfig.json
+/Users/rslavi686@cable.comcast.com/RiderProjects/duplicateCompanies/duplicateCompanies/bin/Debug/net8.0/duplicateCompanies.dll
+/Users/rslavi686@cable.comcast.com/RiderProjects/duplicateCompanies/duplicateCompanies/bin/Debug/net8.0/duplicateCompanies.pdb
+/Users/rslavi686@cable.comcast.com/RiderProjects/duplicateCompanies/duplicateCompanies/obj/Debug/net8.0/duplicateCompanies.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rslavi686@cable.comcast.com/RiderProjects/duplicateCompanies/duplicateCompanies/obj/Debug/net8.0/duplicateCompanies.AssemblyInfoInputs.cache
+/Users/rslavi686@cable.comcast.com/RiderProjects/duplicateCompanies/duplicateCompanies/obj/Debug/net8.0/duplicateCompanies.AssemblyInfo.cs
+/Users/rslavi686@cable.comcast.com/RiderProjects/duplicateCompanies/duplicateCompanies/obj/Debug/net8.0/duplicateCompanies.csproj.CoreCompileInputs.cache
+/Users/rslavi686@cable.comcast.com/RiderProjects/duplicateCompanies/duplicateCompanies/obj/Debug/net8.0/duplicateCompanies.dll
+/Users/rslavi686@cable.comcast.com/RiderProjects/duplicateCompanies/duplicateCompanies/obj/Debug/net8.0/refint/duplicateCompanies.dll
+/Users/rslavi686@cable.comcast.com/RiderProjects/duplicateCompanies/duplicateCompanies/obj/Debug/net8.0/duplicateCompanies.pdb
+/Users/rslavi686@cable.comcast.com/RiderProjects/duplicateCompanies/duplicateCompanies/obj/Debug/net8.0/duplicateCompanies.genruntimeconfig.cache
+/Users/rslavi686@cable.comcast.com/RiderProjects/duplicateCompanies/duplicateCompanies/obj/Debug/net8.0/ref/duplicateCompanies.dll
+/Users/rslavi686@cable.comcast.com/RiderProjects/duplicateCompanies/duplicateCompanies/bin/Debug/net8.0/companies.txt
